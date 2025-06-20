@@ -1,7 +1,7 @@
 ### Hi, my name is Ashley Goh! 👋
 #### I'm a junior undergraduate student at Dartmouth College, double majoring in computer science and mathematical data science with a minor in human-centered design 👩🏻‍💻
 #### I have a few private repositories, so feel free to email me to see them @ ashley.q.goh.26@dartmouth.edu! 💌
-#### Check out some of my projects @ [https://ashleygoh1001.github.io/aboutme/](ashleygoh.me](https://ashleygoh1001.github.io/aboutme/)
+#### Check out some of my projects @ [https://ashleygoh1001.github.io/aboutme/](https://ashleygoh1001.github.io/aboutme/)
 #### Some of my hobbies include soccer, tennis, hiking, skiing, and social entrepreneurship! ⚽️
 <!--
 **ashleygoh1001/ashleygoh1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
