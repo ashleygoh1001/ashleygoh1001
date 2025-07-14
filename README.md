@@ -1,5 +1,5 @@
 ### Hi, my name is Ashley Goh! 👋
-#### I'm a junior undergraduate student at Dartmouth College, double majoring in computer science and mathematical data science with a minor in human-centered design 👩🏻‍💻
+#### I'm a senior undergraduate student at Dartmouth College, double majoring in computer science and mathematical data science with a minor in human-centered design 👩🏻‍💻
 #### I have a few private repositories, so feel free to email me to see them @ ashley.q.goh.26@dartmouth.edu! 💌
 #### Check out some of my projects @ [https://ashleygoh1001.github.io/aboutme/](https://ashleygoh1001.github.io/aboutme/)
 #### Some of my hobbies include soccer, tennis, hiking, skiing, and social entrepreneurship! ⚽️
